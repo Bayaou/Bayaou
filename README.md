@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bayaou&show_icons=true&theme=synthwave)
 <!--
 **Bayaou/Bayaou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
