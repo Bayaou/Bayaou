@@ -53,7 +53,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,git,figma&theme=light" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,python,java,html,css,git,figma&theme=light" />
 
 </div>
 
